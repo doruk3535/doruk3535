@@ -5,11 +5,26 @@
 Final-year Computer Engineering student  
 Interested in Game Development & AI  
 
-## 🚀 Project
-- CodeDocMate Lite  
+## 🚀 Projects
 
-## 🛠️ Tech
-Python • Unity • SQL  
+-- 🎮 02:17 Story Game
+Interactive story-based game with multiple endings built using Python.
 
-## 🔗 LinkedIn
-https://www.linkedin.com/in/doruk-kağan-ergin-17949539b
+--🤖 CodeDocMate Lite
+Local AI assistant for code documentation and repository question answering.
+
+--🕹️ Unity Game Prototype
+2D auto-combat game prototype inspired by survival-style games.
+
+-- 🤖 AI Document Assistant
+Simple AI system for answering questions from documents.
+
+---
+
+## 🛠️ Tech Stack
+Python • Unity • SQL • Git • JSON
+
+---
+
+## 🔗 Connect with me
+- LinkedIn: https://www.linkedin.com/in/doruk-kağan-ergin-17949539b
