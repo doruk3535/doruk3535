@@ -1,16 +1,15 @@
-## Hi there 👋
+![Banner](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1f1f1f&height=200&section=header&text=Doruk%20Ergin&fontSize=40&fontColor=ffffff)
 
-<!--
-**doruk3535/doruk3535** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Doruk 👋
 
-Here are some ideas to get you started:
+Final-year Computer Engineering student  
+Interested in Game Development & AI  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Project
+- CodeDocMate Lite  
+
+## 🛠️ Tech
+Python • Unity • SQL  
+
+## 🔗 LinkedIn
+https://www.linkedin.com/in/doruk-kağan-ergin-17949539b
